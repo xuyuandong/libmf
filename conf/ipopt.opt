@@ -1,0 +1,8 @@
+output_file ipopt.out
+max_iter 1000 
+print_frequency_iter 10
+limited_memory_max_history 20
+acceptable_obj_change_tol 0.1
+print_level 0
+#limited_memory_initialization scalar4
+#hessian_approximation limited-memory

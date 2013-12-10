@@ -1,0 +1,11 @@
+begin at: Tue Dec 10 18:13:23 CST 2013
+[867:1210/181323:INFO:problem.cc(172)] Matrix Factorization Info:
+ad size: 85
+ps size: 342
+graph size: 5281
+latent dimension size: 40
+regular alpha: 0.5
+regular beta: 0.5
+!!!Warning: Unconverge at opt_flag=0
+Iteration=0 , Loss=110526 , step=2.15211
+
